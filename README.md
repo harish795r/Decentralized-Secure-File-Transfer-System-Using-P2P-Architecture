@@ -1,1 +1,0 @@
-# Decentralized-Secure-File-Transfer-System-Using-P2P-architecture
